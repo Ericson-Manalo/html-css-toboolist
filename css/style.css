@@ -63,3 +63,34 @@ li, ul{
     list-style: none;
     line-height: 40px;
 }
+
+.list-title{
+    font-weight: bold;
+}
+
+span{
+    color: white;
+    font-size: 10px;
+    padding: 6px;
+    border-radius: 10px;
+}
+
+.editorial-logo{
+    background-color: rgb(0, 195, 255);
+}
+
+.goals-logo{
+    background-color: ;
+}
+
+.mobile-logo{
+    background-color: orange;
+}
+
+.recruiting-logo{
+    background-color: green;
+}
+
+.sales-logo{
+    background-color: greenyellow;
+}
