@@ -75,22 +75,30 @@ span{
     border-radius: 10px;
 }
 
-.editorial-logo{
+.editorial-pill{
     background-color: rgb(0, 195, 255);
 }
 
-.goals-logo{
+.goals-pill{
     background-color: ;
 }
 
-.mobile-logo{
+.mobile-pill{
     background-color: orange;
 }
 
-.recruiting-logo{
+.recruiting-pill{
     background-color: green;
 }
 
-.sales-logo{
+.sales-pill{
     background-color: greenyellow;
+}
+
+.website-pill{
+    background-color: pink;
+}
+
+.goals-pill{
+    background-color: violet;
 }
