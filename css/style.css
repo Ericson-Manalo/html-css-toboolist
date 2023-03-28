@@ -31,9 +31,6 @@ header{
 }
 
 .first-container-box{
-   /* margin-top: 50px;
-    margin-left: 220px;
-    margin-right: 220px;*/
     background-color: #fff;
     width: 800px;
     padding: 10px 60px;
@@ -41,6 +38,7 @@ header{
 }
 
 .blue-button{
+    display: inline-block;
     color: white;
     background-color: rgb(0, 195, 255);
     padding: 8px;
@@ -49,10 +47,13 @@ header{
 
 .white-button{
     padding: 8px;
+    display: inline;
+    color: grey;
+    border: grey 1px solid;
+    border-radius: 7px;
 }
+
 .second-container-box{
-    /*margin-left: 220px;
-    margin-right: 220px;*/
     background-color: #fff;
     width: 800px;
     padding: 10px 60px;
@@ -79,10 +80,6 @@ span{
     background-color: rgb(0, 195, 255);
 }
 
-.goals-pill{
-    background-color: ;
-}
-
 .mobile-pill{
     background-color: orange;
 }
@@ -101,4 +98,18 @@ span{
 
 .goals-pill{
     background-color: violet;
+}
+
+.green-check{
+    display: inline;
+    color: green;
+    border: 1px green solid;
+    border-radius: 80px;
+}
+
+.red-cross{
+    display: inline;
+    color: red;
+    border: 1px red solid;
+    border-radius: 80px;
 }
