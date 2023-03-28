@@ -23,12 +23,14 @@ header{
     padding: 15px 20px 20px;
 }
 
-.container-box{
-    margin: 50px 220px 50px;
+.first-container-box{
+    margin-top: 50px;
+    margin-left: 220px;
+    margin-right: 220px;
     background-color: #fff;
     width: 800px;
     padding: 10px;
-    border-radius: 7px;
+    border-bottom: rgb(236, 236, 236) solid 2px;
 }
 
 .blue-button{
@@ -40,4 +42,12 @@ header{
 
 .white-button{
     padding: 8px;
+}
+.second-container-box{
+    margin-left: 220px;
+    margin-right: 220px;
+    background-color: #fff;
+    width: 800px;
+    padding: 10px;
+    border-radius: 7px;
 }
