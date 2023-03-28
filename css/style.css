@@ -107,14 +107,14 @@ span{
     display: inline;
     color: green;
     border: 1px green solid;
-    border-radius: 80px;
+    border-radius: 50%;
 }
 
 .red-cross{
     display: inline;
     color: red;
     border: 1px red solid;
-    border-radius: 80px;
+    border-radius: 50%;
 }
 
 .container-list{
