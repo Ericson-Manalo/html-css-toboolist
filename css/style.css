@@ -18,16 +18,17 @@ body{
 
 img{
     vertical-align: middle;
-    height: 80px;
+    height: 100%;
 }
 .text-inline{
     font-size: 40px;
     display: inline;
+    vertical-align: middle;
 }
 
 header{
     background-color: white;
-    padding: 15px 20px 20px;
+    padding: 20px 20px 20px;
 }
 
 .first-container-box{
@@ -104,16 +105,16 @@ span{
 }
 
 .green-check{
-    height: 20px;
-    width: 20px;
-    display: inline;
+    display: inline-block;
     color: green;
     border: 1px green solid;
     border-radius: 50%;
+    width: 25px;
+    height: 25px;
 }
 
 .red-cross{
-    display: inline;
+    display: inline-block;
     color: red;
     border: 1px red solid;
     border-radius: 50%;
